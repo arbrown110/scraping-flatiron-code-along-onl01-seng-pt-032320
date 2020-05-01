@@ -23,6 +23,6 @@ class Scraper
     end
   end  
 end
-Scraper.new.get_page
+Scraper.new.get_courses
 Scraper.new.print_courses
 
